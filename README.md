@@ -34,7 +34,7 @@
 
 # 데이터베이스
 
-![Uploading image.png…]()
+![image](https://github.com/JungMin25/Market/assets/155709583/57f008c0-b840-4214-85c6-fd3815f8fd10)
 
 
 
