@@ -9,9 +9,13 @@
 * 23.10.30 ~ 23.12.07
 
 # 👥 멤버구성
-박용호- 전체 페이지 HTML,CSS 디자인 및 수정, 다중이미지 처리, 중고거래,동네업체(CRUD),카테고리 별 분류, 통합 및 형상관리, PPT제작
+김정민- 전체 페이지 HTML,CSS 디자인 및 수정, 중고거래,동네업체(CRUD),  이벤트페이지(CRUD), 카테고리 별 분류, 로그인,회원가입,아이디/비밀번호 찾기 PPT제작
 
-문웅기- 로그인,회원가입,아이디/비밀번호 찾기,채팅, 이벤트페이지(CRUD), 통합 및 형상관리, 발표
+이혜진- 채팅, 다중이미지 처리, 통합 및 형상관리, 발표
+
+박용호 - 회원가입, 알바, 이벤트페이지 제작, 통합 및 형상관리
+
+문웅기 - 동네업체, 메인페이지, 로그인 페이지, 채팅 페이지, 카테고리 제작
 
 # 개발환경
 * `Java11`
@@ -26,6 +30,7 @@
 
 ![image](https://github.com/moonwg09/spring-Project/assets/103355252/0ce19a66-7a7f-46d4-bfec-4c679ca14382)  ![image](https://github.com/moonwg09/spring-Project/assets/103355252/3af3edd2-13a3-44a8-8261-bf98957c85e2)
 
+![image](https://github.com/JungMin25/Market/assets/155709583/4bc0d9af-2853-459b-82ae-c0c6bed9db8c)
 
 
 
